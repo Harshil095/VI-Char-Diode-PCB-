@@ -1,1 +1,1 @@
-# VI-Char-Diode-PCB-
+# VI-Char-Diode-PCB
